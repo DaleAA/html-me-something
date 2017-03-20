@@ -1,0 +1,52 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #756dea;
+	font-size: 62.5%;
+}
+
+p{ padding: 1em 1em 1em;
+}
+
+main,
+footer {
+	background-color: #ddd5d8;
+	font-size: 1.6em;
+}
+
+header {
+	font-size: 3em;
+  padding: 1.875em 0;
+  background-color: #cbe41a;
+}
+
+header h1 {
+	text-align: center;
+}
+
+header p{
+  font-family: cursive;
+}
+
+h2, h3 {
+	margin-left: .25em;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+footer {
+	text-align: left;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+.pic_size {
+	max-height: 15em;
+	max-width: 15em;
+}
