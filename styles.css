@@ -46,6 +46,8 @@ footer p {
 	display: inline-block;
 }
 
+/* id and class attributes below*/
+
 .pic_size {
 	max-height: 15em;
 	max-width: 15em;
